@@ -1,0 +1,61 @@
+
+nav{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+label img{
+width: 30px;
+border-radius: 0px;
+margin-left: 10px;
+}
+nav ul{
+    float: right;
+    margin-right: 10px;
+    padding: 5px;
+    
+    
+}
+nav ul .btn{
+    display: inline-block;
+    
+   background-color: rgb(238, 227, 227);
+  color: white;
+    font-size: 15px;
+    border-radius: 10px ;
+transition: 0.4s;
+  
+}
+
+nav ul .button{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px ;
+    transition: 0.4s;
+}
+ .card img{
+    max-width: 300px;
+    max-height: 200px;
+ }
+ .container{
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .footer-colu img{
+    width: 30px;
+    border-radius: 0px;
+    margin-left: 10px;
+ }
+ .footer{
+    background-color: rgb(8, 8, 54);
+    color: rgba(167, 238, 238, 0.212);
+ }
+ .rowss{
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .footer-col{
+    width: 25%;
+    padding: 0 15px;
+ }
